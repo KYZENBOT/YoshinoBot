@@ -1,8 +1,8 @@
 {
-  "ownerNumber": "6281575886399@s.whatsapp.net",
+  "ownerNumber": "628985432020@s.whatsapp.net",
   "pairingNumber": "masukin nomer yang ingin dijadikan bot",
   "ownerName": "rc",
-  "botName": "Yoshino Bot",
+  "botName": "Dapz Bot",
   "packname": "follow",
   "author": "@riycoders",
   "pathimg": "./media/yoshino.jpg",
@@ -23,5 +23,7 @@
   "gcount": {
 	"prem": 35,
 	"user": 15
+
   }
+	
 }
